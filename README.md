@@ -52,7 +52,7 @@ I am a highly motivated **BSc Data Analytics student** with a passion for **solv
 🏆 **Data Science Club Member** – Collaborated on **real-world data science projects and competitions**.  
 
 ## **Contact & Links**  
-🔗 **GitHub:** [Your GitHub Link]  
-🔗 **LinkedIn:** [Your LinkedIn Link]  
+🔗 **GitHub:** [https://github.com/sauravkrpal]  
+🔗 **LinkedIn:** [[Your LinkedIn Link](https://www.linkedin.com/in/saurav-kr-pal/)]  
 🔗 **Portfolio Website:** [Your Portfolio Link]  
 📩 **Email:** [Your Email]  
