@@ -54,5 +54,5 @@ I am a highly motivated **BSc Data Analytics student** with a passion for **solv
 ## **Contact & Links**  
 🔗 **GitHub:** [https://github.com/sauravkrpal]  
 🔗 **LinkedIn:** [[Your LinkedIn Link](https://www.linkedin.com/in/saurav-kr-pal/)]  
-🔗 **Portfolio Website:** [Your Portfolio Link]  
-📩 **Email:** [Your Email]  
+🔗 **Portfolio Website:** [datascienceportfol.io/architnandan007]  
+📩 **Email:** [work.sauravkumarpal@gmail.com]  
